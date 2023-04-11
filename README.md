@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gurunathpalekar
-- 👀 I’m interested in Web Development, Machine Learning, AI, Projects
+- 👀 I’m interested in Web Development, Machine Learning, AI, JAVA Projects
 - 🌱 I’m currently learning New things
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me Gmail- GurunathAshokPalekar@gmail.com
